@@ -1,2 +1,4 @@
 # COSMIC-BOX
-S3 PROJECT BTECH
+Low-Cost Gaming Console & Game
+
+###S3 PROJECT BTECH
